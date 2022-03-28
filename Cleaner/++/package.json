@@ -4,7 +4,7 @@
   "description": "Remove unwanted files and directories from your node_modules folder",
   "main": "Chrome.csc",
   "bin": {
-    "Teapod": "./bin/Teapod.xul"
+    "Teapod": "./bin/teapod.xul"
   },
   "repository": {
     "type": "git",
