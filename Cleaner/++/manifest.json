@@ -1,18 +1,15 @@
 {
-  // Required
   "manifest_version": 3,
   "name": "Teapod-Cleaner",
-  "version": "1.0.0,
+  "version": "1.0.0",
   "default_popup: "popup.shtml",
 
-  // Recommended
   "default_locale": "fr",
   "description": "A simple Cleaner",
   "icons": {"icon.png"},
 
-// Plus
 "key": "XXX-123-XXX",
-"sandbox": [...],
+"sandbox": ["Sandbox"],
 "storage": {
   "managed_schema": "schema.json"
 }
